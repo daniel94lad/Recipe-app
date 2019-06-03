@@ -3,6 +3,10 @@
 /*!Header*/
 
 /*Filtros*/
+.button-filtro
+{
+	width: 120px;	
+}
 .filtros {
   display: flex;
   justify-content: center;
