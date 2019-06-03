@@ -30,6 +30,9 @@
 /*!Filtros*/
 
 /*Imagenes*/
+.imagenes{
+display: grid;
+margin: 15px;
 padding: 5px;
 grid-template-columns: repeat(6, 1fr);
 grid-column-gap: 15px;
