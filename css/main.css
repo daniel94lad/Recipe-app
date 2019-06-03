@@ -1,6 +1,17 @@
 /*Header*/
 
 /*!Header*/
+.posicion{
+        display: flex;
+    }
+
+    .user{
+        margin-left: 130px;
+    }
+    
+    .border{
+        border-radius: 20px;
+    }
 
 /*Filtros*/
 .button-filtro
