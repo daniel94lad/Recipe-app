@@ -3,6 +3,7 @@
 /*!Header*/
 .posicion{
         display: flex;
+        justify-content: center;
     }
 
     .user{
