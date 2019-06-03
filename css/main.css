@@ -30,7 +30,26 @@
 /*!Filtros*/
 
 /*Imagenes*/
+padding: 5px;
+grid-template-columns: repeat(6, 1fr);
+grid-column-gap: 15px;
+grid-row-gap: 15px;
+}
 
+.btn {
+border-radius: 15px;
+opacity: 0.9;
+width: 200px;
+height: 250px;
+}
+
+img {
+border-radius: 15px;
+margin: 0;
+padding: 0;
+width: 180px;
+height: 230px;
+}
 /*!Imagenes*/
 
 /*Footer*/
